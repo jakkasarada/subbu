@@ -1,2 +1,1 @@
-# sharada
-//jakka sharada
+//jakka
