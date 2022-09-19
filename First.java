@@ -6,5 +6,6 @@ public class First {
 
         System.out.println("hellojagadeesh");
 		System.out.println("o");
+		System.out.println("o");
     }
 }
